@@ -1,8 +1,9 @@
 # StakeSync
-![Screenshot 2025-02-15 014122](https://github.com/user-attachments/assets/7620f255-4bff-46f2-a43b-13c30e858033)
 
 ## 🏆 Built for StakeKit x Safe Agentathon
 This project integrates **StakeKit API** in `src/services/main.ts` to manage liquidity, optimize yields, and automate DeFi strategies.
+
+![Screenshot 2025-02-15 014122](https://github.com/user-attachments/assets/7620f255-4bff-46f2-a43b-13c30e858033)
 
 ## 🚀 Overview- my idea
 **StakeSync** is an AI-powered **DeFi Smart Account** that utilizes a Multi-Agent Liquidity Swarm to optimize profits across arbitrage, lending, and staking. Unlike traditional bots that focus only on arbitrage, StakeSync dynamically shifts liquidity in real-time based on user preferences and risk levels.
