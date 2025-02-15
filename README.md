@@ -46,6 +46,7 @@ Instead of relying on external wallets like MetaMask, StakeSync utilizes **Safe 
 💡 **Why It Matters?**
 Users can **deposit funds once**, and the AI autonomously manages everything securely.
 ![image](https://github.com/user-attachments/assets/c4259856-be43-4317-b720-97f2b9d8a906)
+![image](https://github.com/user-attachments/assets/ba947e28-e9ca-420d-9922-8853f40998d8)
 
 ---
 
