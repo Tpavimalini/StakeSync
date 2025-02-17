@@ -3,6 +3,8 @@
 ## 🏆 Built for StakeKit x Safe Agentathon
 This project integrates **StakeKit API** in `src/services/main.ts` to manage liquidity, optimize yields, and automate DeFi strategies.
 
+And also integrated Lit Protocol
+
 ![Screenshot 2025-02-15 014122](https://github.com/user-attachments/assets/7620f255-4bff-46f2-a43b-13c30e858033)
 
 ## 🚀 Overview- my idea
@@ -51,6 +53,25 @@ Users can **deposit funds once**, and the AI autonomously manages everything sec
 ![image](https://github.com/user-attachments/assets/ba947e28-e9ca-420d-9922-8853f40998d8)
 
 ---
+
+## 🔑 Lit Protocol Integration
+StakeSync now integrates **Lit Protocol’s Agent Wallet** for automated and secure DeFi interactions.
+### ✅ Benefits of Lit Protocol:
+- **Decentralized Signing** – Uses MPC-based key management.
+- **Automated Transactions** – AI agents execute smart contract functions automatically.
+- **Enhanced Security** – Eliminates private key exposure.
+
+### 🔧 How It Works:
+1. **PKP (Programmable Key Pair)**: Generates a decentralized private key.
+2. **Agent Wallet**: Handles automated staking, lending, and arbitrage.
+3. **Transaction Signing**: Uses Lit’s MPC nodes to sign transactions securely.
+
+#### 📂 New Files Added:
+- `src/config/litConfig.js` → Handles Lit Protocol connection.
+- `src/utils/agentWallet.js` → Creates and manages Lit Agent Wallet.
+- `src/utils/transactionSigner.js` → Signs transactions securely using Lit’s PKP.
+
+
 
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
