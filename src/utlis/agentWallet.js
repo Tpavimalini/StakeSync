@@ -5,7 +5,7 @@ import litClient from "../config/litConfig.js";
 // Function to initialize PKP & Agent Wallet
 export const initAgentWallet = async () => {
     await litClient.connect();
-
+ 
     const pkpClient = new PKPClient({ litNodeClient: litClient });
 
     // Mint a new PKP
